@@ -33,7 +33,7 @@ Welcome to Tour Finder, a project where users can easily search and filter avail
     <li>Clone this repository: <code>git clone https://github.com/yourusername/tour-finder.git</code></li>
     <li>Install the dependencies: <code>npm install</code></li>
     <li>Start the development server: <code>npm start</code></li>
-    <li>Open your browser and go to <code>http://localhost:3000</code></li>
+    <li>you will be able to access the app through <code>http://localhost:3000</code></li>
 </ol>
 
 ## Usage
