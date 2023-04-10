@@ -39,3 +39,27 @@ Welcome to Tour Finder, a project where users can easily search and filter avail
 ## Usage
 
 <p>To use the Tour Finder platform, simply follow these steps:</p>
+
+<ol>
+    <li>Browse through the available tours or use the search bar to find a specific tour.</li>
+    <li>Use the filters to narrow down your search results based on your preferences.</li>
+    <li>Click on a tour to view its details such as itinerary, price, and inclusions.</li>
+    <li>Book the tour directly through the platform or add it to your wishlist for future reference.</li>
+    <li>Rate and review the tour based on your experience to help other users make informed decisions.</li>
+    <li>Share your favorite tours with your friends on social media.</li>
+</ol>
+
+## Contributing
+
+<p>If you want to contribute to this project, please follow these guidelines:</p>
+
+<ol>
+    <li>Fork the repository and create a new branch.</li>
+    <li>Make your changes and test them locally.</li>
+    <li>Submit a pull request with a detailed description of your changes.</li>
+    <li>Wait for a project maintainer to review and merge your changes.</li>
+</ol>
+
+## License
+
+<p>This project is licensed under the <a href="https://opensource.org/licenses/MIT">MIT License</a>. Feel free to use it for your own projects.</p>
