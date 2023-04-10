@@ -22,9 +22,9 @@ Welcome to Tour Finder, a project where users can easily search and filter avail
     <li>Filter tours based on different criteria.</li>
     <li>View tour details such as itinerary, price, and inclusions.</li>
     <li>Book a tour directly through the platform.</li>
-    <li>Add tours to a wishlist for future reference.</li>
+    <li>Add tours to a wishlist for future reference(soon).</li>
     <li>Rate and review tours based on your experience.</li>
-    <li>Share your favorite tours with your friends on social media.</li>
+    <li>Share your favorite tours with your friends on social media(soon).</li>
 </ul>
 
 ## Installation
